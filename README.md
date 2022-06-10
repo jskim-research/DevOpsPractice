@@ -10,4 +10,7 @@ Will be updated soon
 ## Github action
 
 공식 문서: https://docs.github.com/en/actions
-참고 사이트: https://brownbears.tistory.com/597
+
+참고 사이트: 
+- https://brownbears.tistory.com/597
+- https://tech.kakao.com/2022/05/06/github-actions/  (카카오 테크)
