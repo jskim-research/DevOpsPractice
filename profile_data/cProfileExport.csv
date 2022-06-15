@@ -1,0 +1,8 @@
+ncalls,tottime,percall,cumtime,percall,filename:lineno(function)
+2100,0.143,0.000,0.143,0.000,{built-in,method builtins.print}
+1000,0.002,0.000,0.002,0.000,{built-in,method numpy.array}
+1,0.000,0.000,0.146,0.146,performance_eval.py:17(a)
+1,0.002,0.002,0.139,0.139,performance_eval.py:23(b)
+1,0.000,0.000,0.000,0.000,{method,'disable' of '_lsprof.Profiler' objects}
+
+
